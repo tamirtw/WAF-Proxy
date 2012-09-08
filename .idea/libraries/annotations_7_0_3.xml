@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="annotations-7.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/annotations-7.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ant-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/ant-launcher-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/bcprov-jdk15-135.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/browsermob-proxy-2.0-beta-6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-configuration-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/freemarker-2.3.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-r07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guice-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guice-multibindings-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guice-servlet-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hamcrest-all-1.3.0RC2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpmime-4.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/icu4j-2.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-core-asl-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jackson-mapper-asl-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jcip-annotations-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jdom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-continuation-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-http-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-io-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-security-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-server-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-servlet-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jetty-util-7.3.0.v20110203.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jewelcli-0.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jopt-simple-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jsoup-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/mvel2-2.0.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/saxpath-1.0-FCS.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/selenium-api-2.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sitebricks-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-jdk14-1.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xalan-2.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xmlParserAPIs-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xom-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xstream-1.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/hamcrest-all-1.3.0RC2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
